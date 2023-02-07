@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kushwahaabhi101@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3HNVykE](bit.ly/3HNVykE)
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/u/4/folders/1oqyZ9hvVUZj1Bju8Wmauye8adJb6Gkxp">**Resume**</a>
 
 - ⚡ Fun fact **I know how to think**
 
